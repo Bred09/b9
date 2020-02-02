@@ -1,0 +1,40 @@
+a{
+  text-decoration: none;
+  color: #fff;
+}
+a:hover{
+  border-bottom: solid 1px #fff;
+}
+
+ul{
+  display: inline;
+  margin-left: calc(50% - 225px);
+}
+li{
+  margin-right: 50px;
+  display: inline;
+}
+nav{
+  background: #1d1d1d;
+  padding: 20px;
+}
+
+.main{
+  width: 800px;
+  text-align: center;
+  background: #1d1d1d;
+  margin: 20px auto;
+  padding: 30px;
+}
+.footer{
+}
+.logo{
+  background: #fff;
+  padding: 30px;
+}
+body{
+  background: #4d4d4d;
+  color: #fff;
+}
+
+*{margin:0;}
